@@ -24,5 +24,5 @@ ec2specs = {
 
 enable_monitoreo = 0
 
-ingress_port_list = [22, 80, 443]
+ingress_port_list = [22, 80]
 
